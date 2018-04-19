@@ -15,14 +15,13 @@
 <ul style="list-style-type:circle"> 
   <li>Programming language : Python3</li>
   <li>Library : PyQt , Python tkinter</li>
-  <li>Coding style : <a href = "http://nanshu.wang/post/2015-07-04/"> PEP8 </li>
 </ul>
 
 <h2>Reference：</h2>
 <ul style="list-style-type:circle"> 
   <li><p><a href="https://www.tenlong.com.tw/products/9789866482090">郭尚君, C++入門進階</a></li>
-  <li>Mark Summerfield, 精通Python3程式設計(第二版)</li>
-  <li>Eric Matthes, Python crash course</li>
+  <li><p><a href="http://www.books.com.tw/products/0010488305">Mark Summerfield, 精通Python3程式設計(第二版)</a></li>
+  <li><a href="http://www.books.com.tw/products/F013396374">Eric Matthes, Python crash course</a></li>
 </ul>
 
 <h2>Job Division：</h2>
