@@ -15,6 +15,7 @@
 <ul style="list-style-type:circle"> 
   <li>Programming language : Python3</li>
   <li>Library : PyQt , Python tkinter</li>
+  <li>Coding Style : <a href = "http://nanshu.wang/post/2015-07-04/"> PEP8 </li>
 </ul>
 
 <h2>Reference：</h2>
