@@ -1,7 +1,7 @@
 # Software Engineering Project Proposal
 
 <h2>Title：</h2>
-圖書管理系統
+<p><font size = "12">圖書管理系統</font></p>
 
 #Member：
 0351091 曾博約
