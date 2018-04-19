@@ -19,7 +19,7 @@
 
 <h2>Reference：</h2>
 <ul style="list-style-type:circle"> 
-  <li>郭尚君, C++入門進階</li>
+  <li><p><a href="https://www.tenlong.com.tw/products/9789866482090">郭尚君, C++入門進階</a></li>
   <li>Mark Summerfield, 精通Python3程式設計(第二版)</li>
   <li>Eric Matthes, Python crash course</li>
 </ul>
