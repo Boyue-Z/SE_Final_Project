@@ -1,7 +1,6 @@
-# SE_Final_Project
+# Software Engineering Project Proposal
 
-#Software Engineering Project Proposal
-#Title：
+<h2>Title：</h2>
 圖書管理系統
 
 #Member：
