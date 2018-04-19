@@ -13,7 +13,7 @@
 
 <h2>Tools：</h2>
 <ul style="list-style-type:circle"> 
-  <li>Programming language : Python</li>
+  <li>Programming language : Python3</li>
   <li>Library : PyQt , Python tkinter</li>
 </ul>
 
